@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+chromadb
+groq
+google-genai
+python-dotenv
+httpx
+aiofiles
+pydantic-settings

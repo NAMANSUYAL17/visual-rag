@@ -1,0 +1,4 @@
+@"
+node_modules/
+dist/
+"@ | Out-File -FilePath C:\Users\NAMAN\OneDrive\Desktop\visual-rag\frontend\.dockerignore -Encoding utf8

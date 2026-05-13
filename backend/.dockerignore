@@ -1,0 +1,9 @@
+@"
+venv/
+chroma_data/
+storage/
+__pycache__/
+*.pyc
+.env
+tmp_*.pdf
+"@ | Out-File -FilePath C:\Users\NAMAN\OneDrive\Desktop\visual-rag\backend\.dockerignore -Encoding utf8
